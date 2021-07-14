@@ -4,7 +4,7 @@ import json
 import time
 import requests
 from bs4 import BeautifulSoup
-
+ 
 USERNAME = os.environ["USERNAME"]
 PASSWORD = os.environ["PASSWORD"]
 TOKEN = ""
